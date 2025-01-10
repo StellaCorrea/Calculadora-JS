@@ -15,7 +15,6 @@ Este é um projeto de **calculadora simples** desenvolvida em JavaScript. A apli
 
 ## 🛠️ **Tecnologias Utilizadas**
 - **HTML5**: Estrutura da interface.
-- **CSS3**: Estilização da calculadora.
 - **JavaScript**: Lógica para realizar os cálculos.
 
 ---
